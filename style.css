@@ -1,4 +1,4 @@
-body{background-image:url('images/bg2.jpeg');background-size:cover;}
+body{background-image:url('bg2.jpeg');background-size:cover;}
 img{border-color: #c71585;border-style:ridge;}
 h1{background-color: #ff1493;color:#98fb98;}
 p{color:#ff4500;font-size:x-large;}
@@ -33,7 +33,7 @@ a:visited{
 .meaning{
     border: solid;
     border-color: #c71585;
-    background-image: url('images/background1.jpeg');
+    background-image: url('background1.jpeg');
     background-size: cover;
     margin-left: 100px;
     margin-right: 100px;
